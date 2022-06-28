@@ -1,0 +1,11 @@
+C:\Users\amir\source\repos\huiteUSA\huiteUSA\bin\Debug\netcoreapp2.2\huiteUSA.deps.json
+C:\Users\amir\source\repos\huiteUSA\huiteUSA\bin\Debug\netcoreapp2.2\huiteUSA.runtimeconfig.json
+C:\Users\amir\source\repos\huiteUSA\huiteUSA\bin\Debug\netcoreapp2.2\huiteUSA.runtimeconfig.dev.json
+C:\Users\amir\source\repos\huiteUSA\huiteUSA\bin\Debug\netcoreapp2.2\huiteUSA.dll
+C:\Users\amir\source\repos\huiteUSA\huiteUSA\bin\Debug\netcoreapp2.2\huiteUSA.pdb
+C:\Users\amir\source\repos\huiteUSA\huiteUSA\obj\Debug\netcoreapp2.2\huiteUSA.csprojAssemblyReference.cache
+C:\Users\amir\source\repos\huiteUSA\huiteUSA\obj\Debug\netcoreapp2.2\huiteUSA.csproj.CoreCompileInputs.cache
+C:\Users\amir\source\repos\huiteUSA\huiteUSA\obj\Debug\netcoreapp2.2\huiteUSA.AssemblyInfoInputs.cache
+C:\Users\amir\source\repos\huiteUSA\huiteUSA\obj\Debug\netcoreapp2.2\huiteUSA.AssemblyInfo.cs
+C:\Users\amir\source\repos\huiteUSA\huiteUSA\obj\Debug\netcoreapp2.2\huiteUSA.dll
+C:\Users\amir\source\repos\huiteUSA\huiteUSA\obj\Debug\netcoreapp2.2\huiteUSA.pdb
